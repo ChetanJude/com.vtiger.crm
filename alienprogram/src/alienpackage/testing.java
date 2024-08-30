@@ -1,4 +1,4 @@
-package alienprogram;
+package alienpackage;
 
 public class testing {
 

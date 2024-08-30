@@ -1,4 +1,4 @@
-package alienprogram;
+package alienpackage;
 
 import java.io.FileInputStream;
 import java.io.IOException;
